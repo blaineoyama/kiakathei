@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://aeriequoo.howlett.sexy/sitemap.xml
